@@ -1,0 +1,12 @@
+go 1.21.6
+
+use (
+	.
+	./hello
+	./integers
+	./iteration
+	./arrays
+	./structs
+	./pointers
+	./dicts
+)
